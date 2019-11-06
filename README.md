@@ -6,9 +6,9 @@ Repositório para documentar e organizar as metodologias e práticas de desenvol
 
 ### Papéis
 
-**ProductOwner**: @uira
-**Equipe de Desenvolvimento**: @victormagalhaespacheco @rmadev-master
-**Scrum Master**; @rafaelalima
+- **ProductOwner**: @uira
+- **Equipe de Desenvolvimento**: @victormagalhaespacheco @rmadev-master
+- **Scrum Master**; @rafaelalima
 
 ## Sprints
 
