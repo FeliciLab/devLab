@@ -27,4 +27,4 @@ Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: 
 ## Repositórios
 - Para cada novo projeto, será criado um repositório;
 - Demandas deverão ser registradas como issue no respectivo repositório;
-
+- Idéias e Demandas de novos projetos deverão ser registradas no [Banco de Idéias](https://github.com/EscolaDeSaudePublica/BancoDeIDeias/issues)
