@@ -35,5 +35,7 @@ Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: 
 
 ## Vocabulário dos termos
 **Issue**: Demandas e requisitos que devem ser implementados.
-**Escala de prioridades**: para priorização das issues será adotada a escala de Manchester (Emergência, Muito urgente, Urgente, Pouco urgente, Não urgente)
+
+**Escala de prioridades**: para priorização das issues será adotada a escala de Manchester (Emergência, Muito urgente, Urgente, Pouco urgente, Não urgente).
+
 **Tarefas**: atividades que devem ser realizadas para completar uma issue.
