@@ -11,8 +11,8 @@ Repositório para documentar e organizar as metodologias e práticas de desenvol
 ### Papéis
 
 - **ProductOwner**: @uira @IrleneRod
-- **Equipe de Desenvolvimento (DevTeam)**: @victorMagalhaesPacheco @rmadev-master @junior-shyko 
-- **Scrum Master**; @rafaelalima @camila
+- **Equipe de Desenvolvimento (DevTeam)**: @victorMagalhaesPacheco @rmadev-master @junior-shyko @camilaccolares @rodrigoplimafreire
+- **Scrum Master**: @camilaccolares
 
 ## Sprints
 
@@ -22,11 +22,11 @@ Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: 
 ## Cerimônias
 
 
-**Sprint Planning e Retrospectiva** Quarta-feiras à Tarde, depois do CONTEC.
+**Sprint Planning e Retrospectiva** Quartas-feiras às 14h30, depois do CONTEC.
 
-**Reunião Diária** Todos os dias às 09h30
+**Reunião Diária** Todos os dias às 14h30
 
-**Special Planning** Primeira Segunda-Feira de cada mês.
+**Special Planning** Primeira Segunda-Feira de cada mês, às 14h30.
 
 
 ## Repositórios
