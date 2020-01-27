@@ -12,21 +12,21 @@ Repositório para documentar e organizar as metodologias e práticas de desenvol
 
 - **ProductOwner**: @uira @IrleneRod
 - **Equipe de Desenvolvimento (DevTeam)**: @victorMagalhaesPacheco @rmadev-master @junior-shyko @camilaccolares @rodrigoplimafreire
-- **Scrum Master**: @camilaccolares
-
-## Sprints
-
-Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: https://github.com/orgs/EscolaDeSaudePublica/projects/7
+- **Scrum Master**: @camilaccolares @rodrigoplimafreire
 
 
 ## Cerimônias
 
+**Sprint Planning** Quartas-feiras às 14h30 (duração 1h).
 
-**Sprint Planning e Retrospectiva** Quartas-feiras às 14h30, depois do CONTEC.
+**Reunião Diária** Todos os dias às 14h30 (duração 15 minutos).
 
-**Reunião Diária** Todos os dias às 14h30
+**Retrospectiva da Sprint e Sprint Review** Terças-feiras às 14h30, depois do CONTEC (duração 1h).
 
-**Special Planning** Primeira Segunda-Feira de cada mês, às 14h30.
+
+## Sprints
+
+Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: https://github.com/orgs/EscolaDeSaudePublica/projects/7
 
 
 ## Repositórios
