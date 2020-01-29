@@ -34,8 +34,15 @@ Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: 
 - Demandas (Estorias) deverão ser registradas como issue no respectivo repositório;
 
 ## Vocabulário dos termos
-**Issue**: Demandas e requisitos que devem ser implementados.
 
 **Escala de prioridades**: para priorização das issues será adotada a escala de Manchester (Emergência, Muito urgente, Urgente, Pouco urgente, Não urgente).
 
-**Tarefas**: atividades que devem ser realizadas para completar uma issue.
+**Projeto**: Conjunto de Épics com Objetivos e Metas.
+
+**Epic**: Objetivo específico, com conjunto de demandas na forma de Estória de Usuário.
+
+**Issue / Demanda **: Demandas e requisitos que devem ser implementados.
+
+**Tarefas**: atividades que devem ser realizadas para completar uma issue/demanda.
+
+
