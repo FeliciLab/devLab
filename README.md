@@ -35,11 +35,13 @@ Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: 
 
 ## Vocabulário dos termos
 
+Toda demanda entra no Repositório **Demandas**, sendo analisado posteriormente e direcionado para o projeto específico.
+
 **Escala de prioridades**: para priorização das issues será adotada a escala de Manchester (Emergência, Muito urgente, Urgente, Pouco urgente, Não urgente).
 
-**Projeto (Projects)**: Conjunto de Épicos com Objetivos e Metas. (conjunto de milestones)
+**Projeto (Repositório)**: Conjunto de Épicos com Objetivos e Metas. (conjunto de milestones)
 
-**Épico**: Uma nova demanda que deverá ser analisada e poderá gerar inúmeras demandas. (conjunto de demandas)
+**Épico (Issue/Board)**: Uma nova demanda que deverá ser analisada e poderá gerar inúmeras demandas.
 
 **Milestone**: Objetivo específico, com conjunto de demandas e prazos estabelecidos. (conjunto de épicos)
 
