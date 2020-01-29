@@ -37,11 +37,13 @@ Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: 
 
 **Escala de prioridades**: para priorização das issues será adotada a escala de Manchester (Emergência, Muito urgente, Urgente, Pouco urgente, Não urgente).
 
-**Projeto (Projects)**: Conjunto de Épics com Objetivos e Metas.
+**Projeto (Projects)**: Conjunto de Épicos com Objetivos e Metas. (conjunto de milestones)
 
-**Épico (Milestone)**: Objetivo específico, com conjunto de demandas na forma de Estória de Usuário.
+**Épico**: Uma nova demanda que deverá ser analisada e poderá gerar inúmeras demandas. (conjunto de demandas)
 
-**Demanda (Issue)**: Demandas e requisitos que devem ser implementados.
+**Milestone**: Objetivo específico, com conjunto de demandas e prazos estabelecidos. (conjunto de épicos)
+
+**Demanda (Issue)**: Demandas e requisitos que devem ser implementados. (conjunto de tarefas)
 
 **Tarefas (Tasks)**: atividades que devem ser realizadas para completar uma issue/demanda.
 
