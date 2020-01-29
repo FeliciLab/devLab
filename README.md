@@ -41,7 +41,7 @@ Nossas sprints vão durar duas semanas e serão documentadas no seguinde board: 
 
 **Epic**: Objetivo específico, com conjunto de demandas na forma de Estória de Usuário.
 
-**Issue / Demanda **: Demandas e requisitos que devem ser implementados.
+**Issue / Demanda**: Demandas e requisitos que devem ser implementados.
 
 **Tarefas**: atividades que devem ser realizadas para completar uma issue/demanda.
 
