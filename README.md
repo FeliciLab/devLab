@@ -4,8 +4,10 @@ Repositório para documentar e organizar as metodologias e práticas de desenvol
 
 ## Scrum
 
-## Máximas
+### Máximas
 - O usuário tem sempre razão.
+- não temos medo de errar
+- nos apaixonamos pelo problema, e não pela solução
 
 
 ### Papéis
