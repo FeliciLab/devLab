@@ -19,7 +19,7 @@ Repositório para documentar e organizar as metodologias e práticas de desenvol
 
 ## Cerimônias
 
-**Sprint Planning** Quartas-feiras às 14h30 (duração 1h).
+**Sprint Planning** Sextas-feiras a cada 15 dias (duração 1h).
 
 **Reunião Diária** Todos os dias às 14h30 (duração 15 minutos).
 
