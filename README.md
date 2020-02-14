@@ -1,3 +1,5 @@
+![Logo devLab](https://user-images.githubusercontent.com/89998/74538880-dab18600-4f1b-11ea-858e-25c9ecc357c9.png)
+
 # Metodologia De Desenvolvimento
 Repositório para documentar e organizar as metodologias e práticas de desenvolvimento da ESP.
 
