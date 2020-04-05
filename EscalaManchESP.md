@@ -6,6 +6,9 @@ A proposta da adaptação da escala à metodologia de desenvolvimento de tecnolo
 
 ## Escala de ManchESP
 
+- As demandas mais "graves" serão atendidas primeiro.
+- Conheça os níveis de gravidade por cor/tipo
+
 ### Emergência
 Caso gravíssimo com necessidade de atendimento e risco: jurídico, político ou social.
 
@@ -22,6 +25,6 @@ Caso para atendimento preferencial.
 Caso para atendimento segundo priorização nas Sprints quinzenais. Queixas crônicas: relatórios
 
 
-# Escala de Mancheser:
+## Escala de Mancheser:
 
 ![image](https://user-images.githubusercontent.com/89998/73411420-09a4e680-42e4-11ea-90dd-23bc8450005b.png)
